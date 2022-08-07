@@ -375,5 +375,11 @@ nav .fa-solid{
         font-size: 14px;
     }
     .work:hover .layer{
-    height: 50%;
+    font-size:8px;
+}
+    .layer a{
+        margin-top:5px;
+        font-size:10px;
+        width:20px;
+        height:20px;
 }
